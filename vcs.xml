@@ -1,0 +1,24 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.jooau.com:8080/chenzhengcai/fuxing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.jooau.com:8080" />
+          <option name="userName" value="tianyuan@jooau.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dioxide/UD-plus-mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\UPUPW\htdocs\project" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_WHITESPACES_IN_LST" value="true" />
+  </component>
+</application>

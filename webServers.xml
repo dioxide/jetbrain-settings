@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="815b0861-93e7-41d6-bf3f-f8c646cfebb1" name="Jooau Ali" url="http://114.215.178.119">
+        <fileTransfer host="114.215.178.119" port="22" rootFolder="/data/www" accessType="SFTP" password="dfe0dfc5dfc5dfcbdfdfdf9adf9edf9adf9bdf9adf92" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
