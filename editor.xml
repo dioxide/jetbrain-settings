@@ -15,6 +15,7 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
