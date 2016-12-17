@@ -23,33 +23,33 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="bdc" value="borderColor:'',&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="bdc" value="borderColor:'$END$',&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="bdw" value="borderWidth:1,&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="bdw" value="borderWidth:1$END$,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="bgc" value="backgroundColor:'#fff',&#10;" toReformat="false" toShortenFQNames="true" />
+  <template name="bgc" value="backgroundColor:'#fff'$END$,&#10;" toReformat="false" toShortenFQNames="true" />
   <template name="mr" value="marginRight:,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ml" value="marginLeft:,&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="ml" value="marginLeft:$END$,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="mt" value="marginTop:,&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="mt" value="marginTop:$END$,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="mb" value="marginBottom:,&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="mb" value="marginBottom:$END$,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -59,7 +59,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="mh" value="marginHorizontal:,&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="mh" value="marginHorizontal:$END$,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -92,6 +92,31 @@
   <template name="pr" value="paddingRight:$END$,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fs" value="fontSize:12$END$,&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fc" value="fontColor:'$END$',&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fw" value="fontWeight:'bold$END$',&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="V" value="&lt;View style={styles.$END$}&gt;&#10;&#10;&lt;/View&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="TO" value="&lt;TouchanbleOpacity onPress={()=&gt;{}} style={styles.$END$}&gt;&#10;&#10;&lt;/TouchanbleOpacity&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
     </context>
   </template>
 </templateSet>
