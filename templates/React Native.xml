@@ -33,7 +33,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="bgc" value="backgroundColor:'#fff'$END$,&#10;" toReformat="false" toShortenFQNames="true" />
+  <template name="bgc" value="backgroundColor:'#fff'$END$,&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
   <template name="mr" value="marginRight:,&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -160,6 +164,16 @@
     </context>
   </template>
   <template name="bdlc" value="borderLeftColor:'#ccc$END$',&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ai" value="alignItems:'center$END$',&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jc" value="justifyContent:'center$END$',&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
