@@ -178,4 +178,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="T" value="&lt;Text style={styles.$END$}&gt;&lt;/Text&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
