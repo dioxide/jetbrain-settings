@@ -118,7 +118,7 @@
       <option name="JSX_HTML" value="true" />
     </context>
   </template>
-  <template name="TO" value="&lt;TouchanbleOpacity onPress={()=&gt;{}} style={styles.$END$}&gt;&#10;&#10;&lt;/TouchanbleOpacity&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="TO" value="&lt;TouchableOpacity onPress={()=&gt;{}} style={styles.$END$}&gt;&#10;&#10;&lt;/TouchableOpacity&gt;&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSX_HTML" value="true" />
     </context>
