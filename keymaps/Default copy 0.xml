@@ -2,6 +2,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <mouse-shortcut keystroke="meta button142" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
