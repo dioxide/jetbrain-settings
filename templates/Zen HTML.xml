@@ -1,0 +1,8 @@
+<templateSet group="Zen HTML">
+  <template name="option" value="&lt;option value=&quot;$VAR0$&quot;&gt;$END$&lt;/option&gt;" description="&lt;option value=&quot;...&quot;&gt;...&lt;/option&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
