@@ -4,14 +4,15 @@
     <property name="created">2017-03-26T14:01:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-09T00:56:54</property>
+    <property name="modified">2017-04-09T16:53:58</property>
     <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
