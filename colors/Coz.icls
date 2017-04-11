@@ -4,7 +4,7 @@
     <property name="created">2017-03-26T14:01:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-09T16:53:58</property>
+    <property name="modified">2017-04-11T23:20:01</property>
     <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -23,7 +23,7 @@
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
-    <option name="SELECTION_BACKGROUND" value="49483e" />
+    <option name="SELECTION_BACKGROUND" value="1f571c" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
   <attributes>
@@ -738,7 +738,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1f571c" />
+        <option name="BACKGROUND" value="344134" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
