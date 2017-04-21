@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Prettier.JS" description="Pretty the JavaScript Code!" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="prettier" />
+      <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
