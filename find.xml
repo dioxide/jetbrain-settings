@@ -17,10 +17,13 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.js.statusCode = -2</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.*</mask>
+      <mask>*.jsnatureType</mask>
+      <mask>natureType</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
