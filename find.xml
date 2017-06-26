@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,7 +16,6 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.js.statusCode = -2</mask>
-      <mask>*.*</mask>
       <mask>*.jsnatureType</mask>
       <mask>natureType</mask>
       <mask>&amp;</mask>
@@ -27,6 +26,7 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
