@@ -18,8 +18,16 @@
           <option name="url" value="git@dev.jooau.com:dioxide/udplus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.jooau.com:8089" />
+          <option name="userName" value="dioxide" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.jooau.com:8089/manager/zhoudafu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites/JooauProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Sites/JooauProjects/" />
   </component>
 </application>
