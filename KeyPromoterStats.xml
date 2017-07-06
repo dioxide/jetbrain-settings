@@ -1,0 +1,10 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'F5'" value="1" />
+        <entry key="'⌘C'" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
