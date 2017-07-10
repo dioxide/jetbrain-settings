@@ -23,9 +23,9 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.j</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
