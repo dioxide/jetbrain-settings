@@ -4,8 +4,10 @@
       <map>
         <entry key="'F5'" value="3" />
         <entry key="'⇧F6'" value="5" />
+        <entry key="'⇧⌘G' or '↑' or '⌃P' or '⇧⏎'" value="1" />
         <entry key="'⌃⇧R'" value="1" />
         <entry key="'⌘C'" value="1" />
+        <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="3" />
         <entry key="'⌘K'" value="5" />
         <entry key="'⌘T'" value="2" />
         <entry key="'⌘W'" value="6" />
