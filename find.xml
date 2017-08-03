@@ -21,14 +21,14 @@
       <mask>*.htm</mask>
       <mask>*.p</mask>
       <mask>*.m</mask>
-      <mask>*.*</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ph p</mask>
       <mask>*.php</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
