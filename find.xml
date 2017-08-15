@@ -12,7 +12,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.ph</mask>
       <mask>*.js.statusCode = -2</mask>
       <mask>*.jsnatureType</mask>
       <mask>natureType</mask>
@@ -21,9 +20,6 @@
       <mask>*.m</mask>
       <mask>*.ph p</mask>
       <mask>*.*</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htmkl</mask>
@@ -31,6 +27,10 @@
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.j</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
