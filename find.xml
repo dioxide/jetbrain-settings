@@ -26,11 +26,11 @@
       <mask>*.htmk</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
