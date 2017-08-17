@@ -20,16 +20,17 @@
       <mask>*.m</mask>
       <mask>*.ph p</mask>
       <mask>*.*</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.j</mask>
+      <mask>*.ht ml</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
