@@ -4,9 +4,10 @@
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="App" type="JSX Harmony" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="App.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="pbxproj" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
