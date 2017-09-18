@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="App" type="JSX Harmony" />
       <mapping pattern="App.js" type="PLAIN_TEXT" />
