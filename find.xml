@@ -24,17 +24,17 @@
       <mask>*.htmk</mask>
       <mask>*.*</mask>
       <mask>*.ht m</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.ph p</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.ht ml</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.ht ml</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
