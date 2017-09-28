@@ -26,13 +26,13 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.*</mask>
+      <mask>*.ht ml</mask>
       <mask>*.htm</mask>
+      <mask>*.ht</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.ht ml</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
