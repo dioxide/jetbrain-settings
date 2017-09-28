@@ -23,18 +23,18 @@
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
       <mask>*.*</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ht m</mask>
       <mask>*.ht ml</mask>
+      <mask>*.ph p</mask>
+      <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*.ph p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
