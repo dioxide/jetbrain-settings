@@ -7,9 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js.statusCode = -2</mask>
       <mask>*.jsnatureType</mask>
@@ -23,17 +20,20 @@
       <mask>*.*</mask>
       <mask>*.ht ml</mask>
       <mask>*.ph p</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.htm</mask>
       <mask>*.hc</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.htm</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.hyml</mask>
+      <mask>*.hym</mask>
+      <mask>*.hy</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
