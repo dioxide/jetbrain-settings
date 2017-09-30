@@ -27,13 +27,13 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.hyml</mask>
+      <mask>*.hym</mask>
+      <mask>*.hy</mask>
       <mask>*.htm</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.hyml</mask>
-      <mask>*.hym</mask>
-      <mask>*.hy</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
