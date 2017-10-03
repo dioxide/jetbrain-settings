@@ -5,9 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>&amp;</mask>
-      <mask>*</mask>
-      <mask>*.m</mask>
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
       <mask>*.ht m</mask>
@@ -30,6 +27,9 @@
       <mask>*.p</mask>
       <mask>*.htm</mask>
       <mask>*.js</mask>
+      <mask>*.jyml</mask>
+      <mask>*.jym</mask>
+      <mask>*.jy</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
