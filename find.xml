@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
@@ -22,19 +22,19 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.jyml</mask>
       <mask>*.jym</mask>
       <mask>*.jy</mask>
       <mask>*.j</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
