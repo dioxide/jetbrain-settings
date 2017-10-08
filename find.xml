@@ -10,7 +10,6 @@
       <mask>*.ht m</mask>
       <mask>*.*</mask>
       <mask>*.ht ml</mask>
-      <mask>*.ph p</mask>
       <mask>*.hc</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -31,8 +30,9 @@
       <mask>*.htm</mask>
       <mask>*.</mask>
       <mask>*.ph</mask>
-      <mask>*.h</mask>
+      <mask>*.ph p</mask>
       <mask>*.php</mask>
+      <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
     </recentFileMasks>
