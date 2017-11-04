@@ -15,7 +15,6 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.p</mask>
       <mask>*.jyml</mask>
       <mask>*.jym</mask>
       <mask>*.jy</mask>
@@ -30,10 +29,11 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
-      <mask>*.php</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
