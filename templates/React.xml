@@ -4,8 +4,133 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rcls" value="import React, { Component } from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;class $COMPONENT$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;export default $COMPONENT$;" toReformat="false" toShortenFQNames="true">
+  <template name="rc" value="import React, { Component } from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;class $COMPONENT$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;export default $COMPONENT$;" description="react component" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rpc" value="import React from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;function $COMPONENT$($PARAMETER$) {&#10;  return (&#10;    &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;export default $COMPONENT$;" description="react pure function component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}" description="component did mount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdu" value="componentDidUpdate(prevProps, prevState, prevContext) {&#10;  $END$&#10;}" description="component did update" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}" description="component will mount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwr" value="componentWillReceiveProps(nextProps, nextContext) {&#10;  $END$&#10;}" description="component will receive props" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwu" value="componentWillUpdate(nextProps, nextState, nextContext) {&#10;  $END$&#10;}" description="component will update" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwum" value="componentWillUnmount() {&#10;  $END$&#10;}" description="component will unmount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pts" value="static propTypes = {&#10;  $START$: PropTypes.$END$,&#10;};" description="propType" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pt" value="$START$: PropTypes.$END$," description="propType item" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="scu" value="shouldComponentUpdate(nextProps, nextState, nextContext) {&#10;  $END$&#10;}" description="should component update" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sst" value="this.setState({&#10;  $START$: $END$,&#10;});" description="setState" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="st" value="this.state.$END$" description="state" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="dpts" value="static defaultProps = {&#10;  $START$: $END$,&#10;};" description="default propType" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cst" value="constructor(props) {&#10;  super(props);&#10;  this.state = {&#10;    $END$&#10;  }&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imr" value="import React from 'react';" description="Import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="impc" value="import React, { Component } from 'react';" description="Import React and Component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imrpc" value="import React, { PureComponent } from 'react';" description="Import React and Component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imrn" value="import { $COMPONENT$ } from 'react-native';" description="Import React-Native Element" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdc" value="componentDidCatch(error, info) {&#10;  $END$&#10;}" description="component did catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rnss" value="const styles = StyleSheet.create({&#10;  $END$&#10;});" description="RN StyleSheet Style" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rnmss" value="const styles = Object.assign({}, $START$, StyleSheet.create({&#10;  $END$&#10;}));" description="RN Mixed StyleSheet Style" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cmmb" value="/**&#10;|--------------------------------------------------&#10;| $START$&#10;|--------------------------------------------------&#10;*/&#10;$END$" description="Comment Big Block" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="console.log('====================================');&#10;console.log($START$);&#10;console.log('====================================');" description="Console Log" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
