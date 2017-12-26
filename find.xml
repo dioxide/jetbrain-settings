@@ -23,17 +23,17 @@
       <mask>*.jht</mask>
       <mask>*.jh</mask>
       <mask>*.hs</mask>
-      <mask>*.ph</mask>
       <mask>*.ph p</mask>
       <mask>*.htm</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.p</mask>
       <mask>*.*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
