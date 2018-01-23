@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="MaterialConsulting.js" type="JavaScript" />
+      <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="接口第六波.md" type="PLAIN_TEXT" />
       <mapping pattern="QRScanner.js" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
