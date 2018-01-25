@@ -22,7 +22,7 @@
           <IdeaActionID>CopyElement</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Copy...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
