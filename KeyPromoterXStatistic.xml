@@ -14,7 +14,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
