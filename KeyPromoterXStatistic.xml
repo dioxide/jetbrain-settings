@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New...">
+        <Item>
+          <IdeaActionID>NewElement</IdeaActionID>
+          <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
+          <Description>New...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Prettier.JS">
         <Item>
           <IdeaActionID>Tool_External Tools_Prettier.JS</IdeaActionID>
