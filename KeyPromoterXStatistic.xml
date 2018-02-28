@@ -14,7 +14,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
