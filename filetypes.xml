@@ -6,6 +6,7 @@
       <mapping pattern="接口第六波.md" type="PLAIN_TEXT" />
       <mapping pattern="QRScanner.js" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="reviewSceneWorker.js" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="pro" type="PLAIN_TEXT" />
     </extensionMap>
