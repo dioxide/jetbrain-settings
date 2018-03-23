@@ -9,6 +9,7 @@
       <mapping pattern="reviewSceneWorker.js" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="pro" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
