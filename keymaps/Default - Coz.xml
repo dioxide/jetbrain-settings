@@ -1,1 +1,6 @@
-<keymap version="1" name="Default - Coz" parent="Mac OS X 10.5+" />
+<keymap version="1" name="Default - Coz" parent="Mac OS X 10.5+">
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="help" />
+  </action>
+</keymap>
