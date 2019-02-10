@@ -1,4 +1,7 @@
 <keymap version="1" name="Default - Coz" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
@@ -10,6 +13,9 @@
   </action>
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="meta j" />
