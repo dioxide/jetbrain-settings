@@ -15,4 +15,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="help" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
 </keymap>
