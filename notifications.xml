@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Key Promoter X" shouldLog="false" shouldReadAloud="true" />
+  </component>
+</application>
