@@ -2,8 +2,12 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
-  <component name="PhpAutoImport" auto_import_from_global_scope="true" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
+    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
