@@ -1,7 +1,11 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>

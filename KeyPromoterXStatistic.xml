@@ -1,6 +1,22 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>Images.Editor.ActualSize</IdeaActionID>
+          <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add rule">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
+          <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
+          <Description>Add rule</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -97,6 +113,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide Grid">
+        <Item>
+          <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
+          <ShortCut>'⌘''</ShortCut>
+          <Description>Hide Grid</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
@@ -118,6 +142,14 @@
           <IdeaActionID>NewElement</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>New...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Task...">
+        <Item>
+          <IdeaActionID>tasks.goto</IdeaActionID>
+          <ShortCut>'⌥⇧N'</ShortCut>
+          <Description>Open Task...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -151,6 +183,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>92</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove rule(s)">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Remove</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove rule(s)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -233,12 +273,28 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Grid">
+        <Item>
+          <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
+          <ShortCut>'⌘''</ShortCut>
+          <Description>Show Grid</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Local Changes as UML">
         <Item>
           <IdeaActionID>UML.ShowChanges</IdeaActionID>
           <ShortCut>'⌥⇧⌘D'</ShortCut>
           <Description>Show Local Changes as UML</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Reformat File Dialog">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘L'</ShortCut>
+          <Description>Show Reformat File Dialog</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'bin/www'">
@@ -294,7 +350,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -319,6 +375,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>Images.Editor.ZoomIn</IdeaActionID>
+          <ShortCut>'⌘+' or '⌘='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>

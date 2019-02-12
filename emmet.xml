@@ -1,0 +1,6 @@
+<application>
+  <component name="EmmetOptions">
+    <option name="addEditPointAtTheEndOfTemplate" value="true" />
+    <option name="bemElementSeparator" value="_" />
+  </component>
+</application>

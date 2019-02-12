@@ -2,7 +2,7 @@
   <component name="UmlConfiguration">
     <option name="categories">
       <map>
-        <entry id="DIFF" categories="Details" />
+        <entry id="PHP" categories="Fields;Constants;Constructors;Methods" />
       </map>
     </option>
   </component>
