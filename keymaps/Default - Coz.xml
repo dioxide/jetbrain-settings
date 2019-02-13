@@ -2,6 +2,8 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="DatabaseView.SqlGenerator" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
@@ -18,10 +20,39 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="help" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
+  <action id="ShowErrorDescription" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
 </keymap>
