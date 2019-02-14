@@ -1,32 +1,55 @@
 <keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorCodeBlockEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorCodeBlockStart">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="EditorCodeBlockStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="EditorMoveToPageBottomWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="EditorMoveToPageTopWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt page_up" />
+  </action>
   <action id="EditorMoveUpAndScroll">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="f7" />
   </action>
@@ -41,7 +64,11 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="MethodDown" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
   <action id="NextDiff" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -76,12 +103,16 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="SmartSelect" />
   <action id="SmartStepInto" />
   <action id="StepInto" />
   <action id="Stop" />
@@ -91,6 +122,7 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="TableResult.GrowSelection" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
