@@ -1,0 +1,97 @@
+<keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta f7" />
+  </action>
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="help" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextDiff" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="PreviousDiff" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="SmartStepInto" />
+  <action id="StepInto" />
+  <action id="Stop" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+</keymap>
