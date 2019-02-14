@@ -45,11 +45,15 @@
   <action id="EditorMoveUpAndScroll">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
-  <action id="EditorUnSelectWord" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="f7" />
   </action>
@@ -80,7 +84,6 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
   <action id="QuickJavaDoc">
