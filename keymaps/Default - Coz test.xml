@@ -1,12 +1,25 @@
 <keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="DomCollectionControl.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -21,6 +34,13 @@
   </action>
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt end" />
@@ -93,6 +113,11 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="SafeDelete" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
@@ -128,5 +153,13 @@
   <action id="TableResult.GrowSelection" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
 </keymap>
