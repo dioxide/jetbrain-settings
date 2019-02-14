@@ -46,13 +46,13 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="f7" />
