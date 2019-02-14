@@ -182,7 +182,15 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>106</Count>
+          <Count>107</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Documentation">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'F1'</ShortCut>
+          <Description>Quick Documentation</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove rule(s)">
