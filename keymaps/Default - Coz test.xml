@@ -75,6 +75,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorMoveDownAndScroll">
@@ -104,8 +107,15 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt minus" />
