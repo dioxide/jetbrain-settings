@@ -30,6 +30,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="CompareFileWithEditor">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
