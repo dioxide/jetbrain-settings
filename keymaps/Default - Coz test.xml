@@ -81,6 +81,7 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
   <action id="CopyAsRichText">
     <keyboard-shortcut first-keystroke="alt c" />
@@ -97,7 +98,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditSource">
-    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -217,9 +218,6 @@
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="EmojiAndSymbols" />
-  <action id="ExternalJavaDoc">
-    <keyboard-shortcut first-keystroke="meta f1" />
-  </action>
   <action id="FileChooser.GotoModule" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -248,6 +246,12 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -291,11 +295,11 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="meta f1" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt t" />
@@ -380,11 +384,13 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="UsageView.Include" />
+  <action id="Vcs.EditSource" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="ViewSource">
     <keyboard-shortcut first-keystroke="shift meta f2" />
   </action>
+  <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
