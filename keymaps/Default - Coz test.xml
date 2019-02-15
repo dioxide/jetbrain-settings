@@ -208,6 +208,7 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="ToggleFullScreen" />
   <action id="Unwrap" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
