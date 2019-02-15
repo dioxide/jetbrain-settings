@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="222">
+      <action id="EditorRightWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <action id="GotoAction" />
+      <typing text-keycode="83:0;84:0;79:0;80:0">stop</typing>
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
