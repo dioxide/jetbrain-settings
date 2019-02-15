@@ -334,4 +334,5 @@
   <action id="XPathView.Actions.FindByExpression">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="presentationAssistant.ShowActionDescriptions" />
 </keymap>
