@@ -1,12 +1,21 @@
 <keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="$Cut">
-    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Remove">
@@ -17,14 +26,24 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="CopyAsRichText">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="CopyReference">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="Debug" />
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -66,6 +85,9 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt end" />
   </action>
@@ -76,7 +98,7 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
@@ -109,13 +131,13 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -130,6 +152,9 @@
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="shift f7" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="meta f7" />
   </action>
@@ -138,12 +163,18 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="JumpToLastChange" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="NextDiff" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -164,14 +195,17 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="RestoreDefaultLayout">
+    <keyboard-shortcut first-keystroke="shift f13" />
+  </action>
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SafeDelete" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta space" />
-  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
