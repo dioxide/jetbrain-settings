@@ -181,6 +181,9 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="ShowRecentFindUsagesGroup">
+    <keyboard-shortcut first-keystroke="shift meta f7" />
+  </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
