@@ -20,6 +20,45 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateDatabaseChangesToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+  </action>
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateKeyPromoterXToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateTimeTrackingToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -30,9 +69,14 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="CompareFileWithEditor">
+  <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="CompareFileWithEditor">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.AddColumn" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -47,12 +91,13 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.SqlGenerator" />
   <action id="Debug" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -113,9 +158,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt end" />
   </action>
@@ -170,10 +212,15 @@
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="EditorToggleColumnMode" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="EmojiAndSymbols" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="FileChooser.GotoModule" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -197,6 +244,10 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -238,7 +289,7 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -277,9 +328,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="ShowContent" />
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="meta f2" />
-  </action>
+  <action id="ShowErrorDescription" />
   <action id="ShowFilterPopup" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
@@ -316,6 +365,10 @@
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="ToggleFullScreen" />
+  <action id="ToolsMenu">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
@@ -327,6 +380,9 @@
   <action id="UsageView.Include" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="ViewSource">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
