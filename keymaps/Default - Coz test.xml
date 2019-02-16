@@ -72,6 +72,14 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="ChangeSignature" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -88,6 +96,9 @@
   <action id="Console.TableResult.Reload" />
   <action id="CopyAsRichText">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -223,6 +234,7 @@
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="EmojiAndSymbols" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoModule" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -283,10 +295,18 @@
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="meta f3" />
   </action>
+  <action id="Inline" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="help" />
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
+  <action id="IntroduceParameter" />
+  <action id="IntroduceVariable" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
@@ -305,6 +325,9 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -318,6 +341,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
+  <action id="OptimizeImports" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -333,11 +357,17 @@
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta f6" />
   </action>
   <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta f5" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -380,6 +410,9 @@
   </action>
   <action id="ShowRecentFindUsagesGroup">
     <keyboard-shortcut first-keystroke="shift meta f3" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="ctrl f3" />
