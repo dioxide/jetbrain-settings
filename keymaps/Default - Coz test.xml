@@ -269,7 +269,7 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="GotoPrevElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="shift alt g" />
@@ -278,7 +278,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="meta f3" />
@@ -331,6 +331,9 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
@@ -368,7 +371,7 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="meta f5" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="shift alt l" />
@@ -429,6 +432,7 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource">
     <keyboard-shortcut first-keystroke="shift meta f2" />
   </action>
