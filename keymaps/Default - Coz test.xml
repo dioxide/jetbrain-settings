@@ -331,11 +331,8 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
-  <action id="RefactoringMenu">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
