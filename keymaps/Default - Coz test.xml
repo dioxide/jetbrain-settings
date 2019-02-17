@@ -73,7 +73,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="AutoIndentLines">
-    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f5" />
@@ -237,9 +237,6 @@
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-  </action>
   <action id="EditorScrollDownAndMove">
     <mouse-shortcut keystroke="alt button142" />
   </action>
@@ -297,7 +294,7 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="Find">
-    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta f" />
@@ -363,6 +360,9 @@
     <keyboard-shortcut first-keystroke="help" />
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta f7" />
+  </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
@@ -404,6 +404,7 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextDiff" />
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -412,6 +413,7 @@
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="PreviousDiff" />
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
@@ -450,11 +452,10 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="SafeDelete" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="meta s" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
+  <action id="RunInspection">
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
+  <action id="SafeDelete" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
@@ -475,6 +476,9 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="ShowFilterPopup" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
