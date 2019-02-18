@@ -255,6 +255,7 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt equals" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
@@ -293,6 +294,7 @@
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt minus" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EmojiAndSymbols" />
   <action id="ExpandExpandableComponent">
