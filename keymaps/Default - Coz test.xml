@@ -80,6 +80,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f5" />
   </action>
@@ -404,6 +407,9 @@
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp">
@@ -554,6 +560,7 @@
   <action id="ToolsMenu">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta g" />
