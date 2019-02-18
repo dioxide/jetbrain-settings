@@ -75,6 +75,11 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f5" />
   </action>
@@ -320,6 +325,11 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
@@ -374,13 +384,13 @@
   <action id="IntroduceParameter" />
   <action id="IntroduceVariable" />
   <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="f13" />
   </action>
   <action id="JumpToNextChange">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
@@ -552,6 +562,7 @@
   <action id="VcsGroups">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource">
     <keyboard-shortcut first-keystroke="shift meta f2" />
