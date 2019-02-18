@@ -349,12 +349,13 @@
   </action>
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="GotoPrevElementUnderCaretUsage">
-    <keyboard-shortcut first-keystroke="shift alt g" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift alt f4" />
