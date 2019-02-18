@@ -381,7 +381,6 @@
   <action id="Inline" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="help" />
-    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta f7" />
@@ -536,9 +535,11 @@
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="SurroundWithLiveTemplate" />
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="TodoViewGroupByFlattenPackage" />
