@@ -312,9 +312,11 @@
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="f3" />
@@ -339,7 +341,7 @@
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
-    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -348,20 +350,24 @@
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
   <action id="GotoNextElementUnderCaretUsage">
-    <keyboard-shortcut first-keystroke="alt g" />
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="GotoPrevElementUnderCaretUsage">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift alt f4" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="GotoRelated" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="meta f3" />
@@ -384,6 +390,9 @@
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="IntroduceVariable" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
@@ -475,7 +484,7 @@
   </action>
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="ctrl alt g" />
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -566,7 +575,7 @@
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource">
-    <keyboard-shortcut first-keystroke="shift meta f2" />
+    <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.JumpToTypeSource" />
