@@ -374,7 +374,7 @@
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="help" />
   </action>
   <action id="GenerateCoverageReport">
     <keyboard-shortcut first-keystroke="f11" />
@@ -427,7 +427,7 @@
   </action>
   <action id="Inline" />
   <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="help" />
+    <keyboard-shortcut first-keystroke="meta help" />
   </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta f10" />
@@ -591,6 +591,14 @@
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f9" />
