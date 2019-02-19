@@ -528,7 +528,7 @@
     <keyboard-shortcut first-keystroke="meta f14" />
   </action>
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="shift f15" />
+    <keyboard-shortcut first-keystroke="meta f15" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="f7" />
@@ -599,7 +599,7 @@
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta f15" />
+    <keyboard-shortcut first-keystroke="shift f15" />
   </action>
   <action id="StopBackgroundProcesses" />
   <action id="StructuralSearchPlugin.StructuralReplaceAction">
