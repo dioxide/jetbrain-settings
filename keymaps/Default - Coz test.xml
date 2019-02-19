@@ -225,6 +225,9 @@
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="EditorGutterToggleGlobalLineNumbers">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl delete" />
@@ -313,6 +316,9 @@
   </action>
   <action id="EditorToggleInsertState">
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
