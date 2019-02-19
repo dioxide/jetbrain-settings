@@ -1,6 +1,7 @@
 <keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
@@ -11,6 +12,7 @@
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
@@ -86,6 +88,12 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f5" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="meta f7" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
@@ -120,29 +128,40 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="CopyReference">
-    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift f7" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.SqlGenerator" />
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="Debugger.EditTypeSource" />
+  <action id="Debugger.RestoreBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="EditBreakpoint" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="EditSourceInNewWindow" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
@@ -297,6 +316,7 @@
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EmojiAndSymbols" />
+  <action id="EvaluateExpression" />
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="meta add" />
     <keyboard-shortcut first-keystroke="meta equals" />
@@ -332,6 +352,13 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ForceRunToCursor" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -339,6 +366,9 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="GenerateCoverageReport">
+    <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
@@ -388,7 +418,7 @@
     <keyboard-shortcut first-keystroke="help" />
   </action>
   <action id="InspectCode">
-    <keyboard-shortcut first-keystroke="meta f7" />
+    <keyboard-shortcut first-keystroke="meta f10" />
   </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
@@ -401,7 +431,7 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="f13" />
+    <keyboard-shortcut first-keystroke="f14" />
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="meta quote" />
@@ -443,14 +473,15 @@
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports" />
-  <action id="PasteMultiple">
-    <keyboard-shortcut first-keystroke="meta v" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="f15" />
   </action>
   <action id="PreviousDiff" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
+  <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -479,16 +510,22 @@
   </action>
   <action id="Rerun" />
   <action id="RestoreDefaultLayout">
-    <keyboard-shortcut first-keystroke="shift f13" />
+    <keyboard-shortcut first-keystroke="meta f14" />
   </action>
-  <action id="Run" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="shift f15" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="RunInspection">
-    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="RunToCursor" />
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
@@ -507,6 +544,7 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="ShowExecutionPoint" />
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
@@ -530,12 +568,22 @@
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
   <action id="SmartSelect" />
-  <action id="SmartStepInto" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="meta f9" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
-  <action id="StepInto" />
-  <action id="Stop" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta f15" />
+  </action>
+  <action id="StopBackgroundProcesses" />
   <action id="StructuralSearchPlugin.StructuralReplaceAction">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -548,6 +596,7 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="SwitchCoverage" />
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="TodoViewGroupByFlattenPackage" />
@@ -558,7 +607,13 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift meta f4" />
   </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="ToggleFullScreen" />
+  <action id="ToggleTemporaryLineBreakpoint">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="ToolsMenu">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -568,6 +623,7 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="Unwrap" />
+  <action id="UpdateRunningApplication" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -580,12 +636,18 @@
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="VcsGroups">
-    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="ViewSource">
     <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
   </action>
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.JumpToTypeSource" />
@@ -601,6 +663,12 @@
   </action>
   <action id="XPathView.Actions.ShowPath">
     <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
   <action id="presentationAssistant.ShowActionDescriptions" />
 </keymap>

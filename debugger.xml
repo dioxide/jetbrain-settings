@@ -8,7 +8,7 @@
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration doNotStepIntoLibraryCode="false">
           <custom-object-presentation />
         </configuration>
       </debugger>
