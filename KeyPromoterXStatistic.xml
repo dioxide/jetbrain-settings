@@ -377,6 +377,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle Highlight of All Occurrences">
+        <Item>
+          <IdeaActionID>QuickToggleEditorHighlight</IdeaActionID>
+          <ShortCut>'⌥⌘F3'</ShortCut>
+          <Description>Toggle Highlight of All Occurrences</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
