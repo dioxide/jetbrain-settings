@@ -432,6 +432,9 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Inline" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="meta help" />
@@ -490,6 +493,9 @@
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="Pause">
     <keyboard-shortcut first-keystroke="f15" />
   </action>
@@ -716,6 +722,11 @@
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta t" />
