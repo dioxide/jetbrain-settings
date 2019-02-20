@@ -1,22 +1,11 @@
 <keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-  </action>
+  <action id="$Cut" />
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="ctrl v" />
-    <keyboard-shortcut first-keystroke="meta v" />
-  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
-    <keyboard-shortcut first-keystroke="shift ctrl z" />
-  </action>
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="meta z" />
-    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="AceAction" />
   <action id="ActivateDatabaseChangesToolWindow">
@@ -109,7 +98,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="CompareFileWithEditor">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="Console.TableResult.AddColumn" />
   <action id="Console.TableResult.CompareCells" />
@@ -158,18 +150,8 @@
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
-  <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-  </action>
   <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
-  </action>
-  <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="shift ctrl z" />
-  </action>
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -194,7 +176,6 @@
   </action>
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="meta x" />
-    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="EditorCutLineBackward">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
@@ -215,8 +196,8 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl d" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl down" />
