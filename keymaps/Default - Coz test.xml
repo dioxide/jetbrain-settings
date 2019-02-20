@@ -1,8 +1,4 @@
 <keymap version="1" name="Default - Coz test" parent="Mac OS X 10.5+">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="meta c" />
-  </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
@@ -159,7 +155,6 @@
   </action>
   <action id="EditSourceInNewWindow" />
   <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="Editor Cut">
