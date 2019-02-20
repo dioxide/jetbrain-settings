@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="AceAction" />
   <action id="ActivateDatabaseChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
@@ -231,7 +232,7 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -717,6 +718,10 @@
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta t" />
