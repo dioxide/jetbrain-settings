@@ -203,7 +203,7 @@
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="EditorGutterToggleGlobalLineNumbers">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
@@ -295,7 +295,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
   <action id="EditorToggleShowLineNumbers">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
@@ -372,9 +372,6 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta b" />
-  </action>
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt f4" />
@@ -568,7 +565,7 @@
   </action>
   <action id="ShowFilterPopup" />
   <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="ShowRecentFindUsagesGroup">
     <keyboard-shortcut first-keystroke="shift meta f3" />
@@ -694,15 +691,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="XPathView.Actions.ShowPath">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl f7" />
-  </action>
-  <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta t" />
