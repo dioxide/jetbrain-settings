@@ -718,11 +718,6 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
-  <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="ctrl l" />
-    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
-    <keyboard-shortcut first-keystroke="ctrl quote" />
-  </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
