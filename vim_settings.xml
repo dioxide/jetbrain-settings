@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1550920118613">
-        <mark key="'" line="146" column="19" />
-        <mark key="^" line="37" column="26" />
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1550921637796">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="164" column="48" />
+        <mark key="]" line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1550769271570">
         <mark key="[" line="491" column="0" />
@@ -20,7 +23,6 @@
       <jump line="204" column="34" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="18" column="42" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="26" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
-      <jump line="32" column="17" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="34" column="17" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="36" column="17" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="38" column="17" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
@@ -32,13 +34,17 @@
       <jump line="62" column="18" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="144" column="45" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="146" column="19" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="24" column="7" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="32" column="12" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="242" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">CQk8ZGl2IGlkPSJpZi1zdGF0ZW1lbnQiPgoJCQk8aDI+QSBzdGFuZGFyZCBJRiBzdGF0ZW1lbnQuIElmKDxpPnZhbHVlPC9pPikgey8qLSBncmVlbiAtKi99IGVsc2UgeyAvKi0gd2hpdGUgLSovIH08L2gyPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGl2IGlkPSJpZi1zdGF0ZW1lbnQiPgoJCQk8aDI+QSBzdGFuZGFyZCBJRiBzdGF0ZW1lbnQuIElmKDxpPnZhbHVlPC9pPikgey8qLSBncmVlbiAtKi99IGVsc2UgeyAvKi0gd2hpdGUgLSovIH08L2gyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJPGgyPkEgc3RhbmRhcmQgSUYgc3RhdGVtZW50LiBJZig8aT52YWx1ZTwvaT4pIHsvKi0gZ3JlZW4gLSovfSBlbHNlIHsgLyotIHdoaXRlIC0qLyB9PC9oMj4K</text>
@@ -53,22 +59,23 @@
         <text>/asString</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>asString</text>
+        <text>33</text>
       </register>
     </registers>
     <search>
-      <last-search>asString</last-search>
+      <last-search>33</last-search>
       <last-offset />
-      <last-pattern>asString</last-pattern>
+      <last-pattern>33</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>asString</entry>
+        <entry>33</entry>
       </history-search>
       <history-cmd>
         <entry>/asString</entry>
@@ -79,6 +86,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
