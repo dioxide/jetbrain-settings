@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1550922408051">
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1550931121416">
         <mark key="'" line="242" column="0" />
-        <mark key="[" line="164" column="48" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="21" />
+        <mark key="[" line="125" column="6" />
+        <mark key="]" line="141" column="15" />
+        <mark key="^" line="141" column="15" />
+        <mark key="." line="141" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1550769271570">
         <mark key="[" line="491" column="0" />
