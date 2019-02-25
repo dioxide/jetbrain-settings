@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551075252182">
@@ -10,10 +10,17 @@
         <mark key="^" line="141" column="15" />
         <mark key="." line="141" column="15" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/serviceWorker.js" timestamp="1551079629245" />
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1550769271570">
         <mark key="[" line="491" column="0" />
         <mark key="]" line="491" column="0" />
         <mark key="." line="491" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/colorscheme.css" timestamp="1551078955028">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
     </filemarks>
     <jumps>
