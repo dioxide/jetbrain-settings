@@ -310,7 +310,7 @@
           <IdeaActionID>EditorGutterToggleGlobalLineNumbers</IdeaActionID>
           <ShortCut>'⌥⇧⌘L'</ShortCut>
           <Description>Show Line Numbers</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
