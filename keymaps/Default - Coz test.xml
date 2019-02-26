@@ -29,14 +29,11 @@
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta 1" />
-  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
