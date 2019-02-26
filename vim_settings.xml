@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551075252182">
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551174447428">
         <mark key="'" line="242" column="0" />
-        <mark key="[" line="125" column="6" />
-        <mark key="]" line="141" column="15" />
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="23" />
+        <mark key="m" line="8" column="14" />
         <mark key="^" line="141" column="15" />
-        <mark key="." line="141" column="15" />
+        <mark key="." line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/serviceWorker.js" timestamp="1551166192111">
         <mark key="[" line="59" column="15" />
@@ -82,7 +83,7 @@
       <last-offset />
       <last-pattern>33</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -101,6 +102,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
