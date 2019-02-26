@@ -1,11 +1,11 @@
-<scheme name="Coz test" version="142" parent_scheme="Darcula">
+<scheme name="Coz test copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-02-25T17:30:06</property>
+    <property name="created">2019-02-26T14:02:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-26T14:12:40</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="modified">2019-02-26T15:20:29</property>
+    <property name="originalScheme">Coz test</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
@@ -35,7 +35,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="b16286" />
+        <option name="FOREGROUND" value="d79921" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -48,23 +48,29 @@
     <option name="DEFAULT_COMMA">
       <value />
     </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="b16286" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="83a598" />
+        <option name="FOREGROUND" value="689d6a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="558588" />
+        <option name="FOREGROUND" value="689d6a" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d79921" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="558588" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
@@ -75,7 +81,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="558588" />
+        <option name="FOREGROUND" value="689d6a" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -87,7 +93,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc241d" />
+        <option name="FOREGROUND" value="ec5f67" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -100,19 +106,19 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="a89985" />
+        <option name="FOREGROUND" value="a3a3a3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cc241d" />
+        <option name="FOREGROUND" value="ec5f67" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="a89985" />
+        <option name="FOREGROUND" value="d79921" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -124,14 +130,14 @@
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="a89985" />
+        <option name="EFFECT_COLOR" value="a3a3a3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="a89985" />
+        <option name="EFFECT_COLOR" value="d79921" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -146,13 +152,13 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="558588" />
+        <option name="FOREGROUND" value="689d6a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="689d6a" />
+        <option name="FOREGROUND" value="a89985" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
