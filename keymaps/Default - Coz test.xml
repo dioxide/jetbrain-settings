@@ -7,7 +7,6 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
-  <action id="AceAction" />
   <action id="ActivateDatabaseChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
@@ -706,10 +705,10 @@
   </action>
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="emacsIDEAs.AceJumpWord">
     <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta t" />
