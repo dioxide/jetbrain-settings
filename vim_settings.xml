@@ -11,6 +11,9 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="117" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
+        <mark key="[" line="0" column="79" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/serviceWorker.js" timestamp="1551166192111">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="15" />
@@ -83,7 +86,7 @@
       <last-offset />
       <last-pattern>33</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
