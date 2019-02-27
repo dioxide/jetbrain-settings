@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551198652050">
@@ -20,10 +20,17 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1550769271570">
-        <mark key="[" line="491" column="0" />
-        <mark key="]" line="491" column="0" />
-        <mark key="." line="491" column="0" />
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1551286209286">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1551286510671">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/colorscheme.css" timestamp="1551078955028">
         <mark key="[" line="1" column="2" />
@@ -60,7 +67,7 @@
         <text encoding="base64">CQk8ZGl2IGlkPSJpZi1zdGF0ZW1lbnQiPgoJCQk8aDI+QSBzdGFuZGFyZCBJRiBzdGF0ZW1lbnQuIElmKDxpPnZhbHVlPC9pPikgey8qLSBncmVlbiAtKi99IGVsc2UgeyAvKi0gd2hpdGUgLSovIH08L2gyPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJPGgyPkEgc3RhbmRhcmQgSUYgc3RhdGVtZW50LiBJZig8aT52YWx1ZTwvaT4pIHsvKi0gZ3JlZW4gLSovfSBlbHNlIHsgLyotIHdoaXRlIC0qLyB9PC9oMj4K</text>
@@ -75,7 +82,7 @@
         <text>/asString</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>33</text>
@@ -117,6 +124,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

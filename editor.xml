@@ -22,12 +22,10 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="CARET_BLINKING_PERIOD" value="300" />
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
@@ -35,5 +33,8 @@
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="3" />
   </component>
 </application>

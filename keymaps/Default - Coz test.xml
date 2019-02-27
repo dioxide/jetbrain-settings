@@ -193,6 +193,11 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -300,6 +305,11 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt minus" />
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EmojiAndSymbols" />
   <action id="EvaluateExpression" />
@@ -693,6 +703,13 @@
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta t" />

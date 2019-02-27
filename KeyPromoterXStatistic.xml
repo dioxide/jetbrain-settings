@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -310,7 +310,7 @@
           <IdeaActionID>EditorGutterToggleGlobalLineNumbers</IdeaActionID>
           <ShortCut>'⌥⇧⌘L'</ShortCut>
           <Description>Show Line Numbers</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
