@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551198652050">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="117" column="10" />
-        <mark key="]" line="117" column="10" />
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551366420144">
+        <mark key="'" line="98" column="15" />
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="85" column="4" />
         <mark key="m" line="8" column="14" />
-        <mark key="^" line="32" column="24" />
-        <mark key="." line="117" column="10" />
+        <mark key="^" line="85" column="4" />
+        <mark key="." line="85" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
         <mark key="[" line="0" column="79" />
@@ -20,8 +20,8 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1551343791900">
-        <mark key="'" line="8" column="23" />
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1551366038824">
+        <mark key="'" line="20" column="14" />
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="11" />
         <mark key="^" line="14" column="11" />
@@ -68,6 +68,36 @@
       <jump line="11" column="31" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
       <jump line="21" column="10" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
       <jump line="8" column="23" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
+      <jump line="20" column="14" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
+      <jump line="164" column="20" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="118" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="117" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="116" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="112" column="14" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="109" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="108" column="8" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="52" column="28" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="78" column="8" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="79" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="86" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="87" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="88" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="89" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="90" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="91" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="92" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="93" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="94" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="95" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="96" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="97" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="99" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="100" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="101" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="102" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="103" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="104" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
+      <jump line="98" column="15" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -98,13 +128,13 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkZXJcPg==</text>
+        <text>fc1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFkZXJcPg==</last-search>
+      <last-search>fc1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkZXJcPg==</last-pattern>
+      <last-pattern>fc1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -115,6 +145,9 @@
         <entry encoding="base64">XDxBcHBcPg==</entry>
         <entry encoding="base64">XDxjbGFzc05hbWVcPg==</entry>
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
+        <entry>exp</entry>
+        <entry>test</entry>
+        <entry>fc1</entry>
       </history-search>
       <history-cmd>
         <entry>/asString</entry>
@@ -143,6 +176,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
