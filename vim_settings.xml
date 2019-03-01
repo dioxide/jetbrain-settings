@@ -20,6 +20,9 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" timestamp="1551460385633">
+        <mark key="[" line="36" column="26" />
+      </file>
       <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 1/3dtransforms.html" timestamp="1551458935569" />
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1551425435116">
         <mark key="'" line="20" column="14" />
@@ -207,6 +210,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
