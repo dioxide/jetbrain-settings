@@ -1,11 +1,11 @@
-<scheme name="Coz test" version="142" parent_scheme="Darcula">
+<scheme name="Coz ocean" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-02-27T18:14:00</property>
+    <property name="created">2019-03-06T16:24:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-28T15:05:14</property>
-    <property name="originalScheme">Coz test copy</property>
+    <property name="modified">2019-03-06T16:38:58</property>
+    <property name="originalScheme">Coz</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
@@ -33,9 +33,14 @@
         <option name="FOREGROUND" value="5f5f5f" />
       </value>
     </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="88c6be" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="d79921" />
+        <option name="FOREGROUND" value="fac863" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -56,13 +61,13 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="689d6a" />
+        <option name="FOREGROUND" value="79b6f2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="689d6a" />
+        <option name="FOREGROUND" value="79b6f2" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -93,7 +98,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ec5f67" />
+        <option name="FOREGROUND" value="c5a5c5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -121,6 +126,11 @@
         <option name="FOREGROUND" value="d79921" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="88c6be" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
