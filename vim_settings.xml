@@ -33,14 +33,15 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1551860239438">
-        <mark key="'" line="31" column="14" />
-        <mark key="[" line="22" column="60" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1551862003529">
+        <mark key="'" line="20" column="14" />
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1551286653858">
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1551885408845">
+        <mark key="'" line="34" column="7" />
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
@@ -135,6 +136,7 @@
       <jump line="124" column="61" filename="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" />
       <jump line="125" column="35" filename="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" />
       <jump line="29" column="9" filename="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" />
+      <jump line="34" column="7" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
