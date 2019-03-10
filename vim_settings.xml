@@ -40,9 +40,9 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1551885408845">
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1552223674062">
         <mark key="'" line="34" column="7" />
-        <mark key="[" line="33" column="4" />
+        <mark key="[" line="36" column="7" />
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
         <mark key="^" line="33" column="4" />
@@ -192,7 +192,7 @@
       <last-offset />
       <last-pattern>sssssssss</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
