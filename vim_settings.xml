@@ -3,30 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551367639734">
-        <mark key="'" line="57" column="11" />
-        <mark key="[" line="46" column="12" />
-        <mark key="m" line="8" column="14" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="46" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
-        <mark key="[" line="0" column="79" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/serviceWorker.js" timestamp="1551166192111">
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="59" column="15" />
-        <mark key="." line="59" column="15" />
-        <mark key="^" line="59" column="15" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" timestamp="1551538150060">
-        <mark key="'" line="28" column="9" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="8" column="1" />
-      </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/PhpStorm/ch-0/183.5429.47/PhpStorm.app.vmoptions" timestamp="1551714211755">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="3" column="9" />
@@ -46,6 +22,42 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/lodash/lodash.js" timestamp="1552566381907">
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="476" column="0" />
+        <mark key="^" line="267" column="6" />
+        <mark key="." line="476" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551367639734">
+        <mark key="'" line="57" column="11" />
+        <mark key="[" line="46" column="12" />
+        <mark key="m" line="8" column="14" />
+        <mark key="]" line="46" column="11" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/lodash/at.js" timestamp="1552572870426">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
+        <mark key="[" line="0" column="79" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/serviceWorker.js" timestamp="1551166192111">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="15" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" timestamp="1551538150060">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1552223674062">
         <mark key="'" line="34" column="7" />
         <mark key="[" line="36" column="7" />
@@ -61,12 +73,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1551949535590">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/lodash/lodash.js" timestamp="1552566381907">
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="476" column="0" />
-        <mark key="^" line="267" column="6" />
-        <mark key="." line="476" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -157,10 +163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>sssssssss</text>
