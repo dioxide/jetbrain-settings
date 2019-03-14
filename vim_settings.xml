@@ -40,6 +40,12 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1552547597307">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1552223674062">
         <mark key="'" line="34" column="7" />
         <mark key="[" line="36" column="7" />
@@ -145,10 +151,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>sssssssss</text>
