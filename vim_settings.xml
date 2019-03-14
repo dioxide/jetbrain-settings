@@ -62,6 +62,12 @@
       <file name="/Clipboard.txt" timestamp="1551949535590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/lodash/lodash.js" timestamp="1552566381907">
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="476" column="0" />
+        <mark key="^" line="267" column="6" />
+        <mark key="." line="476" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="157" column="19" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
@@ -151,10 +157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>sssssssss</text>
@@ -267,6 +273,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
