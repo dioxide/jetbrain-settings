@@ -11,12 +11,12 @@
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/lodash/at.js" timestamp="1553091023264">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Sites/TestProjects/lodash/at.js" timestamp="1553093044869">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
         <mark key="[" line="0" column="79" />
@@ -171,15 +171,15 @@
       <jump line="9" column="16" filename="$USER_HOME$/Sites/TestProjects/lodash/at.js" />
       <jump line="12" column="4" filename="$USER_HOME$/Sites/TestProjects/lodash/at.js" />
       <jump line="14" column="9" filename="$USER_HOME$/Sites/TestProjects/lodash/at.js" />
-      <jump line="19" column="13" filename="$USER_HOME$/Sites/TestProjects/lodash/at.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Sites/TestProjects/lodash/at.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Sites/TestProjects/lodash/at.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgYSA=</text>
+        <text>paths</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cykgPT4gYmFzZUF0KHBhdGhzKQ==</text>
+        <text>paths</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RcPg==</text>
@@ -269,7 +269,9 @@
         <entry>20d</entry>
         <entry>set paste</entry>
         <entry>registers</entry>
+        <entry>@:</entry>
         <entry>3 put 3</entry>
+        <entry>b1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
