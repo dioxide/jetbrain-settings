@@ -26,13 +26,19 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/HelloPoint2.js" timestamp="1553170705252">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/HelloPoint2.js" timestamp="1553172423078">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RotateObject.js" timestamp="1553155132877">
         <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/ClickedPoints.js" timestamp="1553172964213">
+        <mark key="[" line="66" column="58" />
+        <mark key="]" line="66" column="59" />
+        <mark key="." line="66" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/lodash/lodash.js" timestamp="1552566381907">
         <mark key="[" line="476" column="0" />
@@ -44,14 +50,6 @@
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" timestamp="1551367639734">
-        <mark key="'" line="57" column="11" />
-        <mark key="[" line="46" column="12" />
-        <mark key="m" line="8" column="14" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/lodash/at.js" timestamp="1553095090940">
         <mark key="'" line="4" column="29" />
@@ -217,17 +215,17 @@
       <jump line="104" column="11" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/cuon-utils.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhX1Bvc2l0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>ssdsdsd</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgYSA=</text>
+        <text encoding="base64">aWYgKGFfUG9zaXRpb24gPCAwKSB7CiAgICBjb25zb2xlLmxvZygnRmFpbGVkIHRvIGdldCB0aGUgc3RvcmFnZSBsb2NhdGlvbiBvZiBhX1Bvc2l0aW9uJyk7CiAgICByZXR1cm47CiAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhhX1Bvc2l0aW9uKQo=</text>
