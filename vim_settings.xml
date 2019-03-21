@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/DrawRectangle.js" timestamp="1553156267632" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-debug.js" timestamp="1553157889794" />
       <file name="/fragment.js" timestamp="1553156849245">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,7 +74,12 @@
       <file name="/JavaScript Console" timestamp="1553156951356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/HelloCanvas.js" timestamp="1553156902896" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/HelloCanvas.js" timestamp="1553159750777">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="13" column="29" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1552223674062">
         <mark key="'" line="34" column="7" />
         <mark key="[" line="36" column="7" />
@@ -82,7 +87,7 @@
         <mark key="." line="33" column="4" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-utils.js" timestamp="1553156661317" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-utils.js" timestamp="1553158080067" />
       <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/colorscheme.css" timestamp="1551078955028">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="92" column="0" />
@@ -92,9 +97,14 @@
       <file name="/Clipboard.txt" timestamp="1551949535590">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/cuon-utils.js" timestamp="1553157813112">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="19" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="200" column="39" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="204" column="34" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="18" column="42" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
@@ -194,43 +204,44 @@
       <jump line="189" column="23" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RotateObject.js" />
       <jump line="24" column="2" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RotateObject.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RotateObject.js" />
+      <jump line="104" column="11" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/cuon-utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICA8c2NyaXB0IHNyYz0iLi4vbGliL3dlYmdsLXV0aWxzLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSIuLi9saWIvd2ViZ2wtZGVidWcuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Ii4uL2xpYi9jdW9uLXV0aWxzLmpzIj48L3NjcmlwdD4=</text>
+        <text>COLOR_BUFFER_B</text>
       </register>
       <register name="-" type="4">
-        <text>paths</text>
+        <text>COLOR_BUFFER_B</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYmplY3RcPg==</text>
+        <text>ssdsdsd</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgYSA=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA8c2NyaXB0IHNyYz0iLi4vbGliL3dlYmdsLXV0aWxzLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSIuLi9saWIvd2ViZ2wtZGVidWcuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Ii4uL2xpYi9jdW9uLXV0aWxzLmpzIj48L3NjcmlwdD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyBHZXQgdGhlIHJlbmRlcmluZyBjb250ZXh0IGZvciBXZWJHTAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYXQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwogIH0KCiAgLy8gU2V0IHRoZSBzaGFkZXIgcHJvZ3JhbQogIGdsLnNoYWRlclNvdXJjZShzaGFkZXIsIHNvdXJjZSk7CgogIC8vIENvbXBpbGUgdGhlIHNoYWRlcgogIGdsLmNvbXBpbGVTaGFkZXIoc2hhZGVyKTsKCiAgLy8gQ2hlY2sgdGhlIHJlc3VsdCBvZiBjb21waWxhdGlvbgogIHZhciBjb21waWxlZCA9IGdsLmdldFNoYWRlclBhcmFtZXRlcihzaGFkZXIsIGdsLkNPTVBJTEVfU1RBVFVTKTsKICBpZiAoIWNvbXBpbGVkKSB7CiAgICB2YXIgZXJyb3IgPSBnbC5nZXRTaGFkZXJJbmZvTG9nKHNoYWRlcik7CiAgICBjb25zb2xlLmxvZygnRmFpbGVkIHRvIGNvbXBpbGUgc2hhZGVyOiAnICsgZXJyb3IpOwogICAgZ2wuZGVsZXRlU2hhZGVyKHNoYWRlcik7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIHJldHVybiBzaGFkZXI7Cn0KCi8qKiAKICogSW5pdGlhbGl6ZSBhbmQgZ2V0IHRoZSByZW5kZXJpbmcgZm9yIFdlYkdMCiAqIEBwYXJhbSBjYW52YXMgPGNhdm5hcz4gZWxlbWVudAogKiBAcGFyYW0gb3B0X2RlYnVnIGZsYWcgdG8gaW5pdGlhbGl6ZSB0aGUgY29udGV4dCBmb3IgZGVidWdnaW5nCiAqIEByZXR1cm4gdGhlIHJlbmRlcmluZyBjb250ZXh0IGZvciBXZWJHTAogKi8KZnVuY3Rpb24gZ2V0V2ViR0xDb250ZXh0KGNhbnZhcywgb3B0X2RlYnVnKSB7CiAgLy8gR2V0IHRoZSByZW5kZXJpbmcgY29udGV4dCBmb3IgV2ViR0wKICB2YXIgZ2wgPSBXZWJHTFV0aWxzLnNldHVwV2ViR0woY2FudmFzKTsKICBpZiAoIWdsKSByZXR1cm4gbnVsbDsKCiAgLy8gaWYgb3B0X2RlYnVnIGlzIGV4cGxpY2l0bHkgZmFsc2UsIGNyZWF0ZSB0aGUgY29udGV4dCBmb3IgZGVidWdnaW5nCiAgaWYgKGFyZ3VtZW50cy5sZW5ndGggPCAyIHx8IG9wdF9kZWJ1Zykgewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybnMge0FycmF5fSBSZXR1cm5zIHRoZSBwaWNrZWQgdmFsdWVzLgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICA8c2NyaXB0IHNyYz0iLi4vbGliL3dlYmdsLXV0aWxzLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSIuLi9saWIvd2ViZ2wtZGVidWcuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Ii4uL2xpYi9jdW9uLXV0aWxzLmpzIj48L3NjcmlwdD4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogY29uc3Qgb2JqZWN0ID0geyAnYSc6IFt7ICdiJzogeyAnYyc6IDMgfSB9LCA0XSB9Cg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQGV4YW1wbGUK</text>
+        <text encoding="base64">ICogQHJldHVybnMge0FycmF5fSBSZXR1cm5zIHRoZSBwaWNrZWQgdmFsdWVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQGV4YW1wbGUK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="x" type="4">
         <text>|</text>
@@ -243,11 +254,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYmplY3RcPg==</last-search>
+      <last-search>ssdsdsd</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYmplY3RcPg==</last-pattern>
+      <last-pattern>ssdsdsd</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -271,6 +282,8 @@
         <entry encoding="base64">XDxhcnJheVw+</entry>
         <entry encoding="base64">XDxPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry>ssdsdsd</entry>
       </history-search>
       <history-cmd>
         <entry>/asString</entry>
