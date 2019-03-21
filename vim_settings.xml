@@ -35,10 +35,11 @@
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RotateObject.js" timestamp="1553155132877">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/ClickedPoints.js" timestamp="1553172964213">
-        <mark key="[" line="66" column="58" />
-        <mark key="]" line="66" column="59" />
-        <mark key="." line="66" column="59" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/ClickedPoints.js" timestamp="1553175685369">
+        <mark key="[" line="63" column="1" />
+        <mark key="]" line="63" column="2" />
+        <mark key="." line="63" column="2" />
+        <mark key="^" line="63" column="2" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/lodash/lodash.js" timestamp="1552566381907">
         <mark key="[" line="476" column="0" />
