@@ -9,10 +9,11 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/TexturedQuad.js" timestamp="1553270056316">
-        <mark key="[" line="123" column="13" />
-        <mark key="]" line="123" column="14" />
-        <mark key="." line="123" column="14" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/TexturedQuad.js" timestamp="1553272382560">
+        <mark key="[" line="134" column="1" />
+        <mark key="]" line="134" column="48" />
+        <mark key="." line="134" column="48" />
+        <mark key="^" line="134" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/MultiAttributeSize.js" timestamp="1553251053192" />
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/HelloTriangle.js" timestamp="1553193386533">
@@ -255,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>POINTS</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>POINTS</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>sdfsdf</text>
