@@ -3,15 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/RotatedTriangle_Matrix.js" timestamp="1553237327025">
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+        <mark key="^" line="48" column="11" />
+      </file>
       <file name="/fragment.js" timestamp="1553156849245">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1552229630698">
-        <mark key="'" line="17" column="28" />
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/HelloTriangle.js" timestamp="1553193386533">
         <mark key="'" line="45" column="19" />
@@ -24,13 +23,6 @@
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/lodash/at.js" timestamp="1553095090940">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
         <mark key="[" line="0" column="79" />
@@ -88,24 +80,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" timestamp="1551538150060">
-        <mark key="'" line="28" column="9" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="8" column="1" />
-      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/ClickedPoints.html" timestamp="1553181600956">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="44" />
         <mark key="." line="8" column="44" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1552223674062">
-        <mark key="'" line="34" column="7" />
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-utils.js" timestamp="1553158080067" />
       <file name="/Clipboard.txt" timestamp="1551949535590">
