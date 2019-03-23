@@ -85,11 +85,11 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/LookAtTriangles.js" timestamp="1553334255831">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="61" column="1" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/LookAtTriangles.js" timestamp="1553337784422">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="6" />
+        <mark key="." line="58" column="6" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/HelloQuad.js" timestamp="1553231019054">
         <mark key="[" line="45" column="28" />
@@ -267,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICo=</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICo=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sdfsdf</text>
@@ -409,6 +409,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
