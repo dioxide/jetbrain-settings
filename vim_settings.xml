@@ -50,9 +50,6 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/ColoredPoints.js" timestamp="1553178154733">
-        <mark key="'" line="42" column="26" />
-      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/MultiPoint.html" timestamp="1553181735928">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="8" column="43" />
@@ -125,6 +122,11 @@
         <mark key="]" line="476" column="0" />
         <mark key="^" line="267" column="6" />
         <mark key="." line="476" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/PerspectiveView_mvp.js" timestamp="1553352884651">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="52" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch04/RotatingTriangle.js" timestamp="1553248455930">
         <mark key="[" line="100" column="90" />
@@ -276,8 +278,8 @@
       <jump line="48" column="13" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/TranslatedTriangle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnbC5jbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKTsgICAvLyBDbGVhciA8Y2FudmFzPgo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -285,8 +287,8 @@
       <register name="/" type="4">
         <text>sdfsdf</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKGFfUG9zaXRpb24gPCAwKSB7CiAgICBjb25zb2xlLmxvZygnRmFpbGVkIHRvIGdldCB0aGUgc3RvcmFnZSBsb2NhdGlvbiBvZiBhX1Bvc2l0aW9uJyk7CiAgICByZXR1cm47CiAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBnbC5jbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKTsgICAvLyBDbGVhciA8Y2FudmFzPgo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAKICAgIH0sMTAwMCk=</text>
