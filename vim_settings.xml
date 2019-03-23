@@ -9,6 +9,12 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/DepthBuffer.js" timestamp="1553356518670">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/TexturedQuad.js" timestamp="1553274715260">
         <mark key="[" line="134" column="1" />
         <mark key="]" line="122" column="0" />
@@ -39,7 +45,7 @@
         <mark key="^" line="46" column="17" />
         <mark key="." line="46" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/PerspectiveView_mvpMatrix.js" timestamp="1553354693615">
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/PerspectiveView_mvpMatrix.js" timestamp="1553356191386">
         <mark key="[" line="97" column="4" />
         <mark key="]" line="97" column="3" />
         <mark key="^" line="97" column="3" />
@@ -55,12 +61,6 @@
         <mark key="]" line="13" column="29" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/MultiPoint.html" timestamp="1553181735928">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="44" />
-        <mark key="." line="8" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/MultiAttributeColor.js" timestamp="1553257326957">
         <mark key="[" line="51" column="19" />
