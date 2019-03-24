@@ -149,7 +149,7 @@
         <mark key="^" line="72" column="23" />
         <mark key="." line="45" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/LightedCube_ambient.js" timestamp="1553409980380">
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/LightedCube_ambient.js" timestamp="1553410413178">
         <mark key="[" line="80" column="38" />
         <mark key="]" line="80" column="39" />
         <mark key="." line="80" column="39" />
@@ -164,6 +164,12 @@
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="44" />
         <mark key="." line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/LightedTranslatedRotatedCube.js" timestamp="1553418483961">
+        <mark key="[" line="92" column="27" />
+        <mark key="]" line="92" column="28" />
+        <mark key="^" line="92" column="27" />
+        <mark key="." line="92" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/colorscheme.css" timestamp="1551078955028">
         <mark key="[" line="1" column="2" />
