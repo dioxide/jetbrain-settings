@@ -10,6 +10,13 @@
         <mark key="^" line="50" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/MultiAttributeSize.js" timestamp="1553251053192" />
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1552229630698">
+        <mark key="'" line="17" column="28" />
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/MultiTexture.js" timestamp="1553276208681">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -31,9 +38,12 @@
         <mark key="]" line="97" column="8" />
         <mark key="." line="97" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickFace.js" timestamp="1553437170516">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickFace.js" timestamp="1553438365775">
+        <mark key="'" line="49" column="13" />
         <mark key="[" line="86" column="5" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/JointModel.js" timestamp="1553425848909">
         <mark key="[" line="182" column="0" />
@@ -88,10 +98,24 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" timestamp="1551538150060">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch04/RotatedTriangle_Matrix4.js" timestamp="1553242773449">
         <mark key="[" line="43" column="14" />
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/index.html" timestamp="1552223674062">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-utils.js" timestamp="1553158080067" />
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" timestamp="1553429651731">
@@ -138,6 +162,13 @@
         <mark key="]" line="46" column="17" />
         <mark key="^" line="46" column="17" />
         <mark key="." line="46" column="17" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/lodash/at.js" timestamp="1553095090940">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/ColoredCube.js" timestamp="1553361259476" />
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickObject.js" timestamp="1553435852630">
@@ -215,6 +246,11 @@
         <mark key="^" line="92" column="27" />
         <mark key="." line="92" column="28" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RoundedPoints.js" timestamp="1553438799673">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-colorscheme-handbook/src/colorscheme.css" timestamp="1551078955028">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="92" column="0" />
@@ -223,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="242" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="7" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
       <jump line="9" column="26" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
@@ -323,58 +358,59 @@
       <jump line="227" column="46" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickObject.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickFace.js" />
+      <jump line="49" column="13" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickFace.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u_MvpMatrix *</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAnI2VuZGlmIEdMX0VTXG4nICsK</text>
       </register>
       <register name="-" type="4">
-        <text>u_MvpMatrix *</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>checkfa</text>
+        <text>look</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnbC5jbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKTsgICAvLyBDbGVhciA8Y2FudmFzPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAvLyBDYWxjdWxhdGUgdGhlIG1vZGVsIG1hdHJpeAogICAgbW9kZWxNYXRyaXguc2V0Um90YXRlKGN1cnJlbnRBbmdsZSwgMCwgMSwgMCk7IC8vIFJvdGF0ZSBhcm91bmQgdGhlIHktYXhpcw==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8vIFBhc3MgdGhlIG1vZGVsIG1hdHJpeCB0byB1X01vZGVsTWF0cml4CiAgICBnbC51bmlmb3JtTWF0cml4NGZ2KHVfTW9kZWxNYXRyaXgsIGZhbHNlLCBtb2RlbE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gUGFzcyB0aGUgbW9kZWwgdmlldyBwcm9qZWN0aW9uIG1hdHJpeCB0byB1X012cE1hdHJpeAogICAgbXZwTWF0cml4LnNldCh2cE1hdHJpeCkubXVsdGlwbHkobW9kZWxNYXRyaXgpOwogICAgZ2wudW5pZm9ybU1hdHJpeDRmdih1X012cE1hdHJpeCwgZmFsc2UsIG12cE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gUGFzcyB0aGUgbWF0cml4IHRvIHRyYW5zZm9ybSB0aGUgbm9ybWFsIGJhc2VkIG9uIHRoZSBtb2RlbCBtYXRyaXggdG8gdV9Ob3JtYWxNYXRyaXgKICAgIG5vcm1hbE1hdHJpeC5zZXRJbnZlcnNlT2YobW9kZWxNYXRyaXgpOwogICAgbm9ybWFsTWF0cml4LnRyYW5zcG9zZSgpOwogICAgZ2wudW5pZm9ybU1hdHJpeDRmdih1X05vcm1hbE1hdHJpeCwgZmFsc2UsIG5vcm1hbE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gQ2xlYXIgY29sb3IgYW5kIGRlcHRoIGJ1ZmZlcgogICAgZ2wuY2xlYXIoZ2wuQ09MT1JfQlVGRkVSX0JJVCB8IGdsLkRFUFRIX0JVRkZFUl9CSVQpOwoKICAgIC8vIERyYXcgdGhlIGN1YmUKICAgIGdsLmRyYXdFbGVtZW50cyhnbC5UUklBTkdMRVMsIG4sIGdsLlVOU0lHTkVEX0JZVEUsIDAp</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAKICAgIH0sMTAwMCk=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAnI2VuZGlmIEdMX0VTXG4nICsK</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvLyBDYWxjdWxhdGUgdGhlIG1vZGVsIG1hdHJpeAogICAgbW9kZWxNYXRyaXguc2V0Um90YXRlKGN1cnJlbnRBbmdsZSwgMCwgMSwgMCk7IC8vIFJvdGF0ZSBhcm91bmQgdGhlIHktYXhpcw==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8vIFBhc3MgdGhlIG1vZGVsIG1hdHJpeCB0byB1X01vZGVsTWF0cml4CiAgICBnbC51bmlmb3JtTWF0cml4NGZ2KHVfTW9kZWxNYXRyaXgsIGZhbHNlLCBtb2RlbE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gUGFzcyB0aGUgbW9kZWwgdmlldyBwcm9qZWN0aW9uIG1hdHJpeCB0byB1X012cE1hdHJpeAogICAgbXZwTWF0cml4LnNldCh2cE1hdHJpeCkubXVsdGlwbHkobW9kZWxNYXRyaXgpOwogICAgZ2wudW5pZm9ybU1hdHJpeDRmdih1X012cE1hdHJpeCwgZmFsc2UsIG12cE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gUGFzcyB0aGUgbWF0cml4IHRvIHRyYW5zZm9ybSB0aGUgbm9ybWFsIGJhc2VkIG9uIHRoZSBtb2RlbCBtYXRyaXggdG8gdV9Ob3JtYWxNYXRyaXgKICAgIG5vcm1hbE1hdHJpeC5zZXRJbnZlcnNlT2YobW9kZWxNYXRyaXgpOwogICAgbm9ybWFsTWF0cml4LnRyYW5zcG9zZSgpOwogICAgZ2wudW5pZm9ybU1hdHJpeDRmdih1X05vcm1hbE1hdHJpeCwgZmFsc2UsIG5vcm1hbE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gQ2xlYXIgY29sb3IgYW5kIGRlcHRoIGJ1ZmZlcgogICAgZ2wuY2xlYXIoZ2wuQ09MT1JfQlVGRkVSX0JJVCB8IGdsLkRFUFRIX0JVRkZFUl9CSVQpOwoKICAgIC8vIERyYXcgdGhlIGN1YmUKICAgIGdsLmRyYXdFbGVtZW50cyhnbC5UUklBTkdMRVMsIG4sIGdsLlVOU0lHTkVEX0JZVEUsIDAp</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAKICAgIH0sMTAwMCk=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAnI2lmZGVmIEdMX0VTXG4nICsK</text>
+        <text encoding="base64">ICAnI2VuZGlmIEdMX0VTXG4nICsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdfcG9pbnRzKWkK</text>
+        <text encoding="base64">ICAnI2lmZGVmIEdMX0VTXG4nICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhX1Bvc2l0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdfcG9pbnRzKWkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBHZXQgdGhlIHJlbmRlcmluZyBjb250ZXh0IGZvciBXZWJHTAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhX1Bvc2l0aW9uKQo=</text>
       </register>
       <register name="x" type="4">
         <text>|</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAvLyBHZXQgdGhlIHJlbmRlcmluZyBjb250ZXh0IGZvciBXZWJHTAo=</text>
       </register>
       <register name=":" type="4">
         <text>3 put 3</text>
       </register>
     </registers>
     <search>
-      <last-search>checkfa</last-search>
+      <last-search>look</last-search>
       <last-offset />
-      <last-pattern>checkfa</last-pattern>
+      <last-pattern>look</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -409,6 +445,7 @@
         <entry encoding="base64">XDxudW1cPg==</entry>
         <entry>alert</entry>
         <entry>checkfa</entry>
+        <entry>look</entry>
       </history-search>
       <history-cmd>
         <entry>/asString</entry>
