@@ -90,6 +90,15 @@
         <mark key="." line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-utils.js" timestamp="1553158080067" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" timestamp="1553429651731">
+        <mark key="'" line="227" column="46" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/cuon-utils.js" timestamp="1553429923168">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/MultiPoint.js" timestamp="1553191805179">
         <mark key="[" line="75" column="23" />
         <mark key="]" line="75" column="23" />
@@ -175,6 +184,12 @@
         <mark key="]" line="80" column="39" />
         <mark key="." line="80" column="39" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/RotateObject.js" timestamp="1553434167628">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch04/RotatingTriangle.js" timestamp="1553248455930">
         <mark key="[" line="100" column="90" />
         <mark key="]" line="82" column="1" />
@@ -200,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="18" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
-      <jump line="144" column="45" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="146" column="19" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="24" column="7" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
@@ -300,16 +313,18 @@
       <jump line="1" column="0" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/MultiPoint.html" />
       <jump line="45" column="19" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/HelloTriangle.js" />
       <jump line="48" column="13" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/TranslatedTriangle.js" />
+      <jump line="221" column="15" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" />
+      <jump line="227" column="46" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAvLyBDYWxjdWxhdGUgdGhlIG1vZGVsIG1hdHJpeAogICAgbW9kZWxNYXRyaXguc2V0Um90YXRlKGN1cnJlbnRBbmdsZSwgMCwgMSwgMCk7IC8vIFJvdGF0ZSBhcm91bmQgdGhlIHktYXhpcw==</text>
+        <text>u_MvpMatrix *</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>u_MvpMatrix *</text>
       </register>
       <register name="/" type="4">
-        <text>sdfsdf</text>
+        <text encoding="base64">XDxudW1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnbC5jbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKTsgICAvLyBDbGVhciA8Y2FudmFzPgo=</text>
@@ -349,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sdfsdf</last-search>
+      <last-search encoding="base64">XDxudW1cPg==</last-search>
       <last-offset />
-      <last-pattern>sdfsdf</last-pattern>
+      <last-pattern encoding="base64">XDxudW1cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -383,6 +398,7 @@
         <entry>400</entry>
         <entry>la</entry>
         <entry>sdfsdf</entry>
+        <entry encoding="base64">XDxudW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>/asString</entry>
