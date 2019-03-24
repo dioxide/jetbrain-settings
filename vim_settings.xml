@@ -31,11 +31,11 @@
         <mark key="]" line="97" column="8" />
         <mark key="." line="97" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/JointModel.js" timestamp="1553425559537">
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="18" />
-        <mark key="^" line="203" column="0" />
-        <mark key="." line="75" column="18" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/JointModel.js" timestamp="1553425848909">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="181" column="13" />
+        <mark key="^" line="181" column="13" />
+        <mark key="." line="181" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/PointLightedCube_perFragment.js" timestamp="1553421301528">
         <mark key="[" line="119" column="1" />
@@ -127,6 +127,9 @@
         <mark key="." line="46" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/ColoredCube.js" timestamp="1553361259476" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel.js" timestamp="1553428825266">
+        <mark key="[" line="247" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/PointLightedCube.js" timestamp="1553419802523">
         <mark key="[" line="84" column="32" />
         <mark key="]" line="84" column="33" />
