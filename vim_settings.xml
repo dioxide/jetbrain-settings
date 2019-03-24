@@ -31,6 +31,10 @@
         <mark key="]" line="97" column="8" />
         <mark key="." line="97" column="8" />
       </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickFace.js" timestamp="1553437170516">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="86" column="5" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/JointModel.js" timestamp="1553425848909">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="181" column="13" />
@@ -219,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="7" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="242" column="0" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="7" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
@@ -319,6 +322,7 @@
       <jump line="221" column="15" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" />
       <jump line="227" column="46" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickObject.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickFace.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,7 +332,7 @@
         <text>u_MvpMatrix *</text>
       </register>
       <register name="/" type="4">
-        <text>alert</text>
+        <text>checkfa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnbC5jbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKTsgICAvLyBDbGVhciA8Y2FudmFzPgo=</text>
@@ -368,9 +372,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alert</last-search>
+      <last-search>checkfa</last-search>
       <last-offset />
-      <last-pattern>alert</last-pattern>
+      <last-pattern>checkfa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -404,6 +408,7 @@
         <entry>sdfsdf</entry>
         <entry encoding="base64">XDxudW1cPg==</entry>
         <entry>alert</entry>
+        <entry>checkfa</entry>
       </history-search>
       <history-cmd>
         <entry>/asString</entry>
