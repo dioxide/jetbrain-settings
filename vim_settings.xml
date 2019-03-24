@@ -37,13 +37,6 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/TranslatedTriangle.js" timestamp="1553232457040">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="46" column="10" />
-        <mark key="^" line="46" column="10" />
-      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/HelloPoint2.js" timestamp="1553172423078">
         <mark key="[" line="47" column="37" />
         <mark key="]" line="47" column="34" />
@@ -108,18 +101,11 @@
         <mark key="]" line="63" column="63" />
         <mark key="." line="63" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/LightedCube.js" timestamp="1553409203516">
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/LightedCube.js" timestamp="1553409733840">
         <mark key="[" line="69" column="31" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch03/HelloTriangle.js" timestamp="1553193386533">
-        <mark key="'" line="45" column="19" />
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch04/RotatedTranslatedTriangle.js" timestamp="1553243011191">
         <mark key="[" line="46" column="14" />
@@ -163,12 +149,10 @@
         <mark key="^" line="72" column="23" />
         <mark key="." line="45" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch02/ClickedPoints.js" timestamp="1553177250089">
-        <mark key="'" line="68" column="45" />
-        <mark key="[" line="68" column="45" />
-        <mark key="]" line="68" column="62" />
-        <mark key="." line="68" column="62" />
-        <mark key="^" line="68" column="62" />
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/LightedCube_ambient.js" timestamp="1553409980380">
+        <mark key="[" line="80" column="38" />
+        <mark key="]" line="80" column="39" />
+        <mark key="." line="80" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch04/RotatingTriangle.js" timestamp="1553248455930">
         <mark key="[" line="100" column="90" />
