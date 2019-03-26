@@ -9,7 +9,9 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/MultiAttributeSize.js" timestamp="1553251053192" />
+      <file name="/fragment.js" timestamp="1553156849245">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" timestamp="1552229630698">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="4" column="29" />
@@ -21,6 +23,11 @@
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/WebGL-master/Chap2/gasket1.js" timestamp="1553603474875">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/PerspectiveView_mvpMatrix.js" timestamp="1553356191386">
         <mark key="[" line="97" column="4" />
@@ -121,7 +128,6 @@
         <mark key="." line="33" column="4" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-utils.js" timestamp="1553158080067" />
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/LookAtBlendedTriangles.js" timestamp="1553439812420">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="35" />
@@ -129,6 +135,9 @@
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel_segment.js" timestamp="1553429651731">
         <mark key="'" line="227" column="46" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1551949535590">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/cuon-utils.js" timestamp="1553429923168">
         <mark key="'" line="104" column="11" />
@@ -141,13 +150,6 @@
         <mark key="]" line="75" column="23" />
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
-      </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch08/PointLightedCube_animation.js" timestamp="1553421132220" />
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/DepthBuffer.js" timestamp="1553356518670">
-        <mark key="[" line="65" column="1" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch05/TexturedQuad.js" timestamp="1553274715260">
         <mark key="[" line="134" column="1" />
@@ -184,10 +186,15 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/ColoredCube.js" timestamp="1553361259476" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1551264394883">
+        <mark key="[" line="0" column="79" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/PickObject.js" timestamp="1553435852630">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="51" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1553156951356">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch09/MultiJointModel.js" timestamp="1553428825266">
         <mark key="[" line="247" column="0" />
@@ -202,7 +209,9 @@
         <mark key="]" line="51" column="19" />
         <mark key="." line="51" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/lib/webgl-debug.js" timestamp="1553157889794" />
+      <file name="/Dummy.txt" timestamp="1553509363196">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/LookAtRotatedTriangles.js" timestamp="1553343057037">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="60" column="33" />
@@ -376,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+ 0.005</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>+ 0.005</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>enabl</text>
@@ -426,22 +435,10 @@
       <last-offset />
       <last-pattern>enabl</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exp</entry>
-        <entry>test</entry>
-        <entry>fc1</entry>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
-        <entry>a</entry>
-        <entry>shader</entry>
-        <entry>22222</entry>
-        <entry>header</entry>
-        <entry>sdfsdfd</entry>
-        <entry>hea</entry>
-        <entry>sssssssss</entry>
-        <entry encoding="base64">XDxyZXR1cm5zXD4=</entry>
         <entry encoding="base64">XDxSZXR1cm5zXD4=</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry encoding="base64">XDwwXD4=</entry>
