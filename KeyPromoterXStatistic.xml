@@ -86,7 +86,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'scratch.js (Node.js)'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -254,7 +254,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌘F15'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -278,7 +278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'scratch.js (Node.js)'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'start'">
@@ -361,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'bin/www'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -430,7 +438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -447,6 +455,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⌃F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
