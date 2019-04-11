@@ -44,11 +44,11 @@
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1554967439926">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1554968429194">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/BlendedCube.js" timestamp="1553440001376">
         <mark key="'" line="0" column="0" />
@@ -280,8 +280,8 @@
       <jump line="1" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIGFycmF5cyA9IFtbMSwgMiwgMywgNCwgNSxbM11dLCBbWzRdLDUsIDIsIDEwXV0KdmFyIHJldCA9IGFycmF5cy5yZWR1Y2UoZnVuY3Rpb24gKGEsIGIsIGkpIHsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -292,35 +292,35 @@
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cgp2YXIgYmFycmF5cyA9IFsxLCAyLCAzLCA0LCA1XTsKYmFycmF5cy5yZWR1Y2UoZnVuY3Rpb24oYSwgYixpKSB7CiAgICBjb25zb2xlLmxvZyhhLGIpCiAgICByZXR1cm4gYQogICAgLy9yZXR1cm4gYS5maWx0ZXIoZnVuY3Rpb24odmFsdWUpIHsKICAgIC8vICAgIHJldHVybiAhYi5pbmNsdWRlcyh2YWx1ZSk7CiAgICAvL30pOwp9KQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dmFyIGFycmF5cyA9IFtbMSwgMiwgMywgNCwgNSxbM11dLCBbWzRdLDUsIDIsIDEwXV0KdmFyIHJldCA9IGFycmF5cy5yZWR1Y2UoZnVuY3Rpb24gKGEsIGIsIGkpIHsK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">Cgp2YXIgYmFycmF5cyA9IFsxLCAyLCAzLCA0LCA1XTsKYmFycmF5cy5yZWR1Y2UoZnVuY3Rpb24oYSwgYixpKSB7CiAgICBjb25zb2xlLmxvZyhhLGIpCiAgICByZXR1cm4gYQogICAgLy9yZXR1cm4gYS5maWx0ZXIoZnVuY3Rpb24odmFsdWUpIHsKICAgIC8vICAgIHJldHVybiAhYi5pbmNsdWRlcyh2YWx1ZSk7CiAgICAvL30pOwp9KQ==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICByZXR1cm4gYS5maWx0ZXIoZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICByZXR1cm4gIWIuaW5jbHVkZXModmFsdWUpOwogICAgfSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybiBhLmZpbHRlcihmdW5jdGlvbih2YWx1ZSkgewogICAgICAgIHJldHVybiAhYi5pbmNsdWRlcyh2YWx1ZSk7CiAgICB9KTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CnZhciBiYXJyID0gWzMsMywyLDMsMTIzLDIsM107CmJhcnIucmVkdWNlKGZ1bmN0aW9uKGEsYil7CiAgICBjb25zb2xlLmxvZyhhKQp9KQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ClsnYScsICdiJywgJ2MnLCAnZCddLnNsaWNlKCk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="x" type="4">
         <text>|</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coMTExKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>3 put 3</text>
