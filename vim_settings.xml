@@ -44,6 +44,12 @@
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1554967439926">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/BlendedCube.js" timestamp="1553440001376">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="2" />
@@ -172,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="14" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/src/App.js" />
       <jump line="164" column="20" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="118" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="117" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
@@ -272,13 +277,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/Sites/TestProjects/lodash/attempt.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Sites/TestProjects/lodash/attempt.js" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
+      <jump line="1" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ClsnYScsICdiJywgJ2MnLCAnZCddLnNsaWNlKCk=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>chunk(['a', 'b', 'c', 'd'], 2)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>enabl</text>
@@ -287,34 +293,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ClsnYScsICdiJywgJ2MnLCAnZCddLnNsaWNlKCk=</text>
+        <text encoding="base64">Cgp2YXIgYmFycmF5cyA9IFsxLCAyLCAzLCA0LCA1XTsKYmFycmF5cy5yZWR1Y2UoZnVuY3Rpb24oYSwgYixpKSB7CiAgICBjb25zb2xlLmxvZyhhLGIpCiAgICByZXR1cm4gYQogICAgLy9yZXR1cm4gYS5maWx0ZXIoZnVuY3Rpb24odmFsdWUpIHsKICAgIC8vICAgIHJldHVybiAhYi5pbmNsdWRlcyh2YWx1ZSk7CiAgICAvL30pOwp9KQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICByZXR1cm4gYS5maWx0ZXIoZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICByZXR1cm4gIWIuaW5jbHVkZXModmFsdWUpOwogICAgfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhLmZpbHRlcihmdW5jdGlvbih2YWx1ZSkgewogICAgICAgIHJldHVybiAhYi5pbmNsdWRlcyh2YWx1ZSk7CiAgICB9KTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CnZhciBiYXJyID0gWzMsMywyLDMsMTIzLDIsM107CmJhcnIucmVkdWNlKGZ1bmN0aW9uKGEsYil7CiAgICBjb25zb2xlLmxvZyhhKQp9KQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coMTExKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOw==</text>
+        <text encoding="base64">ClsnYScsICdiJywgJ2MnLCAnZCddLnNsaWNlKCk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnI2VuZGlmIEdMX0VTXG4nICsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAvLyBDYWxjdWxhdGUgdGhlIG1vZGVsIG1hdHJpeAogICAgbW9kZWxNYXRyaXguc2V0Um90YXRlKGN1cnJlbnRBbmdsZSwgMCwgMSwgMCk7IC8vIFJvdGF0ZSBhcm91bmQgdGhlIHktYXhpcw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8vIFBhc3MgdGhlIG1vZGVsIG1hdHJpeCB0byB1X01vZGVsTWF0cml4CiAgICBnbC51bmlmb3JtTWF0cml4NGZ2KHVfTW9kZWxNYXRyaXgsIGZhbHNlLCBtb2RlbE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gUGFzcyB0aGUgbW9kZWwgdmlldyBwcm9qZWN0aW9uIG1hdHJpeCB0byB1X012cE1hdHJpeAogICAgbXZwTWF0cml4LnNldCh2cE1hdHJpeCkubXVsdGlwbHkobW9kZWxNYXRyaXgpOwogICAgZ2wudW5pZm9ybU1hdHJpeDRmdih1X012cE1hdHJpeCwgZmFsc2UsIG12cE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gUGFzcyB0aGUgbWF0cml4IHRvIHRyYW5zZm9ybSB0aGUgbm9ybWFsIGJhc2VkIG9uIHRoZSBtb2RlbCBtYXRyaXggdG8gdV9Ob3JtYWxNYXRyaXgKICAgIG5vcm1hbE1hdHJpeC5zZXRJbnZlcnNlT2YobW9kZWxNYXRyaXgpOwogICAgbm9ybWFsTWF0cml4LnRyYW5zcG9zZSgpOwogICAgZ2wudW5pZm9ybU1hdHJpeDRmdih1X05vcm1hbE1hdHJpeCwgZmFsc2UsIG5vcm1hbE1hdHJpeC5lbGVtZW50cyk7CgogICAgLy8gQ2xlYXIgY29sb3IgYW5kIGRlcHRoIGJ1ZmZlcgogICAgZ2wuY2xlYXIoZ2wuQ09MT1JfQlVGRkVSX0JJVCB8IGdsLkRFUFRIX0JVRkZFUl9CSVQpOwoKICAgIC8vIERyYXcgdGhlIGN1YmUKICAgIGdsLmRyYXdFbGVtZW50cyhnbC5UUklBTkdMRVMsIG4sIGdsLlVOU0lHTkVEX0JZVEUsIDAp</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>|</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAKICAgIH0sMTAwMCk=</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coMTExKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PScpOw==</text>
       </register>
       <register name=":" type="4">
         <text>3 put 3</text>
