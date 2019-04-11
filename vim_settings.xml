@@ -44,10 +44,10 @@
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1554972239942">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1554973724238">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch10/BlendedCube.js" timestamp="1553440001376">
         <mark key="'" line="0" column="0" />
@@ -279,11 +279,11 @@
       <jump line="1" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiLmluY2x1ZGVzKHZhbHVlKTsKICApCn0pKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(r[v.length] || (r[v.length] = [])).push(v)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(r[v.length] || (r[v.length] = [])).push(v)</text>
       </register>
       <register name="/" type="4">
         <text>enabl</text>
@@ -330,7 +330,7 @@
       <last-offset />
       <last-pattern>enabl</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -419,6 +419,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
