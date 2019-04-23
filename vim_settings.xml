@@ -64,9 +64,9 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1555684897926">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1556045422861">
         <mark key="'" line="3" column="7" />
-        <mark key="[" line="0" column="3" />
+        <mark key="[" line="3" column="11" />
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
         <mark key="^" line="5" column="5" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="11" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="117" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="116" column="4" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
       <jump line="112" column="14" filename="$USER_HOME$/Sites/TestProjects/my-javascript-handbook/originals/js/comparison_table.js" />
@@ -279,6 +278,7 @@
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
       <jump line="1" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
       <jump line="3" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
