@@ -14,7 +14,7 @@
           <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add rule</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
