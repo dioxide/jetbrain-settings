@@ -192,6 +192,11 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -210,6 +215,11 @@
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -247,6 +257,11 @@
   </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorScrollDownAndMove">
     <mouse-shortcut keystroke="alt button142" />
@@ -299,6 +314,11 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt minus" />
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EmojiAndSymbols" />
   <action id="EvaluateExpression" />
@@ -616,6 +636,10 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="SwitchCoverage" />
+  <action id="Table-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="TodoViewGroupByFlattenPackage" />
