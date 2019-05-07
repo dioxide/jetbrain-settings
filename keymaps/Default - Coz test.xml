@@ -673,7 +673,7 @@
   </action>
   <action id="UsageView.Include" />
   <action id="VCS.Deployment.Upload">
-    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
