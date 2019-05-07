@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>51</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
