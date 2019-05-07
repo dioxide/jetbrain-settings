@@ -672,6 +672,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="UsageView.Include" />
+  <action id="VCS.Deployment.Upload">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
