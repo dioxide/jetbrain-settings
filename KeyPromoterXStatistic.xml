@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare with Clipboard">
+        <Item>
+          <IdeaActionID>CompareClipboardWithSelection</IdeaActionID>
+          <ShortCut>'⌥D'</ShortCut>
+          <Description>Compare with Clipboard</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
