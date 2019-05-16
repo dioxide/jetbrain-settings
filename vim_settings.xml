@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Sites/TestProjects/learn-webgl/webgl_programming_guide/ch07/PerspectiveView.js" timestamp="1553350538242">
@@ -138,12 +138,12 @@
         <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FreelanceProjects/sany/app-h5-mall/sy/public/app/topwap/statics/scripts/shopex.js" timestamp="1557902936270" />
-      <file name="$USER_HOME$/Sites/FreelanceProjects/sany/app-h5-mall/sy/custom/topwap/view/item/list/index.html" timestamp="1557977160837">
+      <file name="$USER_HOME$/Sites/FreelanceProjects/sany/app-h5-mall/sy/custom/topwap/view/item/list/index.html" timestamp="1557978670711">
         <mark key="'" line="158" column="40" />
         <mark key="[" line="482" column="7" />
-        <mark key="]" line="153" column="68" />
-        <mark key="." line="153" column="68" />
-        <mark key="^" line="153" column="68" />
+        <mark key="]" line="478" column="28" />
+        <mark key="." line="478" column="28" />
+        <mark key="^" line="478" column="28" />
       </file>
       <file name="$USER_HOME$/Downloads/Programming3DApplications-master/Chapter 2/example2-1.html" timestamp="1551538150060">
         <mark key="'" line="28" column="9" />
