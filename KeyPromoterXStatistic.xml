@@ -62,7 +62,7 @@
           <IdeaActionID>CompareClipboardWithSelection</IdeaActionID>
           <ShortCut>'⌥D'</ShortCut>
           <Description>Compare with Clipboard</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
