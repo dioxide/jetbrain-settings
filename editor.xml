@@ -34,6 +34,6 @@
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingLevelCount" value="3" />
+    <option name="tagTreeHighlightingLevelCount" value="1" />
   </component>
 </application>
