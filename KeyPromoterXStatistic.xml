@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
