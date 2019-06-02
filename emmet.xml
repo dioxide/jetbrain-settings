@@ -2,5 +2,6 @@
   <component name="EmmetOptions">
     <option name="addEditPointAtTheEndOfTemplate" value="true" />
     <option name="bemElementSeparator" value="_" />
+    <option name="previewEnabled" value="true" />
   </component>
 </application>
